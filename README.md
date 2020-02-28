@@ -29,4 +29,4 @@ Info:    This program supports any encrypted archives that engine supported.
 ```
 
 # Note
-1. **Sadly,it's a low-performance program that only cracking weak-password encrypted archieve.**
+1. **Sadly,it's not a high-performance program that only able to crack weak-password encrypted archieve.**
